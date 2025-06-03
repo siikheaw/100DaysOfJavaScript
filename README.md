@@ -1,4 +1,4 @@
-# 100-days-of-js
+# 100DaysOfJavaScript
 My journey of learning JavaScript.
 
 ## Two rules
