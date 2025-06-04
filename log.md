@@ -1,6 +1,6 @@
 ## 01 : June 3, 2025
 ### Restart with Udemy course: The Complete JavaScript Course 2025: From Zero to Expert! by Jonas Schmedtmann.
-Learn 1 - 17 contents.
+Learned content 1 - 17.
 
 ## 02 : June 4, 2025
 ### Continue the course
@@ -32,4 +32,4 @@ if (BMIMark > BMIJohn) {
     console.log(`"John's BMI (${BMIJohn}) is higher than Mark's (${BMIMark})! `)
 }
 ```
-
+Learned content 18 - 20.
