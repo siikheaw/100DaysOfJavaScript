@@ -36,4 +36,4 @@ Learned content 18 - 20.
 
 ## 03 : June 5, 2025
 ### Continue the course
-Learned content 21 - 22
+Learned content 21 - 23
