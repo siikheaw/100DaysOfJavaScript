@@ -37,3 +37,8 @@ Learned content 18 - 20.
 ## 03 : June 5, 2025
 ### Continue the course
 Learned content 21 - 23
+
+## 03 : June 6, 2025
+### Continue the course
+Learned content 24 - 26, Challenge #3 https://app.capacities.io/home/b6f86b0e-83b2-4df0-9d31-aad72d4c6688
+
