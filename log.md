@@ -46,3 +46,7 @@ Learned content 24 - 26, completed challenge#3.
 ### Continue course
 Learned content 27 - 31, completed challenge#4.
 
+## 05 : June 11, 2025
+### Continue course
+Learned content 32 - 34.
+
